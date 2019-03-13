@@ -1,0 +1,12 @@
+@font-face {font-family: 'OpenSansWeb';src: url('../fonts/OpenSans-Regular.woff2') format('woff2'),url('../fonts/OpenSans-Regular.woff') format('woff');}
+*,body{font-family: OpenSansWeb;}
+html {position: relative;min-height: 100%;}
+body {background-image: url(https://api.masterking32.com/random_bg.php?wow);background-repeat: no-repeat; background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: 100% 100%;margin-bottom: 80px;}
+footer {position: absolute;bottom: 0;width: 100%;height: 60px;background-color: rgba(255,255,255,0.8);padding:20px;}
+.login-form{max-width: 450px; margin:80px auto;padding:25px;background-color: rgba(255,255,255,0.8);border-radius: 5px;}
+.box-form{max-width: 80%; margin:10px auto 10px auto;padding:25px;background-color: rgba(255,255,255,0.8);border-radius: 5px;}
+.login-form img{max-width: 100%;margin-bottom: 10px;}
+.form-control { margin: 5px 0px 10px 0px;}
+.input-group span{padding-top: 10px;}
+.sw-theme-default .step-content { background-color: transparent; padding-top: 30px; }
+.sw-theme-default .sw-toolbar { background-color: transparent; }

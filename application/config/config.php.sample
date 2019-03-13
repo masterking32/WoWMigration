@@ -1,0 +1,61 @@
+<?php
+/**
+ * @author Amin Mahmoudi (MasterkinG)
+ * @copyright	Copyright (c) 2019 - 2022, MsaterkinG32 Team, Inc. (https://masterking32.com)
+ * @link	https://masterking32.com
+ * @Description : It's not masterking32 framework !
+ **/
+ 
+// base config
+$config['baseurl'] 						 = "http://localhost"; // Site URL
+$config['page_title'] 					 = "MasterkinG32 Migrations system"; // Site Title
+$config['mail_title']					 = 'MasterkinG32 Migrations system'; // Mail title
+$config['system_email']					 = 'migrations@MasterkinG32.com'; // Sent mail from?
+$config['admin_email']					 = 'lichwow_masterking@yahoo.com'; // Admin Email for get mails
+
+$config['gm_ranks'] = [2,3,4];			    // GM Ranks to manage
+
+$config['db_auth_host'] = '127.0.0.1';		// Auth Database Host
+$config['db_auth_port'] = '3306';			// Auth Database Port
+$config['db_auth_user'] = 'root'; 			// Auth Database Username
+$config['db_auth_pass'] = 'root';			// Auth Database Password
+$config['db_auth_dbname'] = 'auth';			// Auth Database DBName
+
+define('TelegramBotToken', "123:123-12-1234");
+define('TelegramBotUSERID', "1234");
+		
+$config['trans_conf_level'] = '80';
+$config['trans_conf_calcmoney'] = '30000000';
+
+$config['realmlists'] = array( // Add your realmlist here
+	"1" => array(
+		'realmid' => 1,
+		'realmname' => "Reaml 1",
+		'db_host' => "127.0.0.1",
+		'db_port' => "3306",
+		'db_user' => "root",
+		'db_pass' => "root",
+		'db_name' => "characters1",
+		'soap_uri' => "urn:TC",
+		'soap_host' => "127.0.0.1",
+		'soap_port' => "7878",
+		'soap_user' => "username",
+		'soap_pass' => "username",
+	),
+	"2" => array(
+		'realmid' => 2,
+		'realmname' => "Reaml2",
+		'db_host' => "127.0.0.1",
+		'db_port' => "3306",
+		'db_user' => "root",
+		'db_pass' => "root",
+		'db_name' => "characters2",
+        'soap_uri' => "urn:TC",
+		'soap_host' => "127.0.0.1",
+		'soap_port' => "7878",
+		'soap_user' => "username",
+		'soap_pass' => "username",
+	)
+);
+
+?>
