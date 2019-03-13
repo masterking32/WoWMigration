@@ -14,7 +14,7 @@ Support : [AzerothCore](http://azerothcore.org) and [TrinityCore](http://Trinity
  - Import `SQL/masterking_auth_account_transfer.sql` file to your auth/realmd database.
  - You can get new migration notification with TelegramBot.
  - Create a bot in your telegram with [BotFather](https://telegram.me/BotFather) 
- - Use HTTPS and add https://YOUR-DOMAIN.COM/telegram.php to your bot.
+ - Use HTTPS and add https://YOUR-DOMAIN.COM/telegram.php to your bot. [Telegram bot documents](https://core.telegram.org/bots)
  - Join to bot with your Telegram account, send a message to bot. add code to your config file.
  - Enjoy that.
 
