@@ -4,7 +4,7 @@ With this system you can transfer a character from another server to your server
 
 We Just release this system for help people make that customize.
 
-Work for : [AzerothCore](https://azerothcore.org) and [TrinityCore](https://TrinityCore.org).
+Support : [AzerothCore](http://azerothcore.org) and [TrinityCore](http://TrinityCore.org).
 
 # Installation
 
