@@ -27,7 +27,7 @@ Support : [AzerothCore](http://azerothcore.org) and [TrinityCore](http://Trinity
 ## Screenshots
 
 ![Login](https://raw.githubusercontent.com/masterking32/WoWMigration/master/screenshots/1.png)
-![UserPanel](https://raw.githubusercontent.com/masterking32/WoWMigration/master/screenshots/2ng)
+![UserPanel](https://raw.githubusercontent.com/masterking32/WoWMigration/master/screenshots/2.png)
 ![AdminPanel](https://raw.githubusercontent.com/masterking32/WoWMigration/master/screenshots/3.png)
 ![Manage Migration Request](https://raw.githubusercontent.com/masterking32/WoWMigration/master/screenshots/4.png)
 
