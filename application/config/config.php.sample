@@ -41,8 +41,9 @@ $config['realmlists'] = array( // Add your realmlist here
 		'soap_port' => "7878",
 		'soap_user' => "username",
 		'soap_pass' => "username",
-	),
-	"2" => array(
+	)
+	/** Uncomment if have +1 realm.
+	,"2" => array(
 		'realmid' => 2,
 		'realmname' => "Reaml2",
 		'db_host' => "127.0.0.1",
@@ -56,6 +57,7 @@ $config['realmlists'] = array( // Add your realmlist here
 		'soap_user' => "username",
 		'soap_pass' => "username",
 	)
+	**/
 );
 
 ?>
