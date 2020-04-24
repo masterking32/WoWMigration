@@ -1,4 +1,6 @@
-﻿# Simple project for character Migration (BETA)
+# Simple project for character Migration (BETA)
+ 
+# IS NOT SUPPORTED ANYMORE
 
 With this system, you can transfer a character from another server to your server.
 
